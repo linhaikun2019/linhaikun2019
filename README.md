@@ -1,6 +1,6 @@
 ### Hello Everyone! 大家好！👋👋
 这里是我的个人主页，在这里展示了我的github统计信息以及一些个人介绍。<br />
-Here is my personal homepage, where my github statistics and some personal introductions are displayed.
+Here is my personal homepage, where my github statistics and some personal introductions are displayed.<br />
 个人介绍：<br />
 一位前端程序猿，喜欢文学 A front-end engineer who likes literature
 
