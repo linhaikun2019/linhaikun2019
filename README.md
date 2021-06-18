@@ -3,5 +3,5 @@
 Here is my personal homepage, where my github statistics and some personal introductions are displayed.
 
 [![linhaikun2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhaikun2019&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
