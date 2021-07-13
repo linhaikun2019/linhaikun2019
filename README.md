@@ -1,5 +1,5 @@
-<h1 align="center">嗨👋，我是linhaikun2019</h1>
-<h3 align="center">喜欢文学的前端工程师</h3>
+<h1 align="center">Hi👋，I'm linhaikun2019</h1>
+<h3 align="center">A front-end engineer who likes literature</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=linhaikun2019&label=Profile%20views&color=0e75b6&style=flat" alt="linhaikun2019" /> </p>
 
