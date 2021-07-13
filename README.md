@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linhaikun2019" alt="linhaikun2019" /></p>
 
-- 🔭我最近在做的项目[zhihu_optimize-lhk](https://github.com/linhaikun2019/zhihu_optimize-lhk)
+- 🔭 我最近在做的项目[zhihu_optimize-lhk](https://github.com/linhaikun2019/zhihu_optimize-lhk)
 
-- 🌱我现在正在学习**Vue,Nuxt,Electron**
+- 🌱 我现在正在学习**Vue,Nuxt,Electron**
 
-- 👯 我正在寻求合作 [zhihu_optimize-lhk](https://github.com/linhaikun2019/zhihu_optimize-lhk)
+- 👯 我正在寻求合作[zhihu_optimize-lhk](https://github.com/linhaikun2019/zhihu_optimize-lhk)
 
-- 👨‍💻的项目地址[https://github.com/linhaikun2019](https://github.com/linhaikun2019)
+- 👨‍💻 我的主页[https://github.com/linhaikun2019](https://github.com/linhaikun2019)
 
-- 💬 我了解 **HTML,CSS,Javascript,ES6**
+- 💬 我了解的技术 **HTML,CSS,Javascript,ES6**
 
 - 📫如何联系我 **linhaikun2015@163.com**
 
