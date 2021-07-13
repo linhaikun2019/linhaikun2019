@@ -3,7 +3,7 @@
 <h3 align="center">一位前端程序猿，喜欢文学</h3>
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=linhaikun2019&label=Profile%20views&color=0e75b6&style=flat" alt="linhaikun2019" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linhaikun2019" alt="linhaikun2019" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linhaikun2019" alt="linhaikun2019" /></a></p>
 
 - 🔭 我最近在做的项目 [zhihu_optimize-lhk](https://github.com/linhaikun2019/zhihu_optimize-lhk)
 
