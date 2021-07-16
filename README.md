@@ -19,8 +19,8 @@
 
 <h3 align="left">与我联系：</h3>
 <p align= "left">
-<a href="https://stackoverflow.com/users/14196240/linhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="linhaikun2019" height="30" width="40" /></a>
-<a href="http://wpa.qq.com/msgrd?v=1&uin=2735982878&site=qq&menu=yes" target="blank"><img align="center" src="https://i.ibb.co/YcBh4Dx/qq-1.png" alt="linhaikun2019" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14196240/linhk" title="stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="linhaikun2019" height="30" width="40" /></a>
+<a href="http://wpa.qq.com/msgrd?v=1&uin=2735982878&site=qq&menu=yes" title="QQ" target="blank"><img align="center" src="https://i.ibb.co/YcBh4Dx/qq-1.png" alt="linhaikun2019" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">语言和工具：</h3>
