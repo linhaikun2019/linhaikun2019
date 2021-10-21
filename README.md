@@ -21,7 +21,6 @@
 <p align= "left">
 <a href="http://wpa.qq.com/msgrd?v=1&uin=2735982878&site=qq&menu=yes" title="QQ" target="blank"><img align="center" src="https://i.ibb.co/YcBh4Dx/qq-1.png" alt="qq" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14196240/linhk" title="stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href="https://www.zhihu.com/people/lin-da-82-29-80" title="知乎" target="blank"><img align="center" src="https://i.ibb.co/tD56n93/1.png" alt="知乎" height="30" width="40" /></a>
 <a href="https://gitee.com/mypjxz" title="gitee" target="blank"><img align="center" src="https://i.ibb.co/PggjGH1/gitee.png" alt="gitee" height="30" width="40" /></a>
 <a href="https://segmentfault.com/u/_5f4b64519a2f9" title="SegmentFault" target="blank"><img align="center" src="https://i.ibb.co/9ryjBN0/Segment-Fault.png" alt="SegmentFault" height="30" width="40" /></a>
 <a href="https://leetcode-cn.com/u/linhaikun2019/" title="LeetCode" target="blank"><img align="center" src="https://i.ibb.co/hWWNh0g/LeetCode.png" alt="LeetCode" height="30" width="40" /></a>
